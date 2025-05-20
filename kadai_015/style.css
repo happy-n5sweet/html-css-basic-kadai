@@ -8,7 +8,7 @@ body {
 }
 
 .blue{
-  color:skyblue;
+  color:skyblue
 }
 
 .pink{
@@ -16,13 +16,13 @@ body {
 }
 
 h1{
-  font-family: "Josefin Sans", sans-serif
+  font-family: "Josefin Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 2em;
   text-shadow: 1px 3px 3px pink ;
   letter-spacing: 1.2em;
-  border-bottom: solid 3px rgb(115, 115, 114)
+  border-bottom: solid 3px rgb(115, 115, 114);
           
   }
 
