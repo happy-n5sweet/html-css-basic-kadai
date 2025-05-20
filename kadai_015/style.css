@@ -1,0 +1,32 @@
+body {
+  font-family:"Arial", "Meiryo", sans-serif
+  font-size 20px;
+  text-align:  center; 
+}
+
+.blue{
+  color:skyblue;
+}
+
+.pink{
+  color:rgb(255, 192, 203)
+}
+
+h1{
+  font-family: "Dela Gothic One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2em;
+  text-shadow: 1px 3px 3px pink ;
+  letter-spacing: 1.2em;
+          
+  }
+
+.underline{
+  color:rgb(115, 115, 114) 3px
+}
+
+
+#basic{
+  font-weight:bold
+}
