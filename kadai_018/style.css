@@ -3,8 +3,7 @@
 width: 800px;
 background-color: #dcc9f4;
 text-align:center;
-padding-top: 20px;
-padding-bottom: 20px;
+margin: 20px auto;
 }
 
 .top-child{
@@ -52,7 +51,7 @@ position: relative;
 
   #bottom{
     width: 800px;
-    height: 800px;
+    height: 300px;
     text-align: center; 
     background-color:#87ceeb;
   }
