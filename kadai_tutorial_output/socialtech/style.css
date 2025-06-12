@@ -743,10 +743,7 @@ footer {
   }
 
   /* スマホ用ナビを非表示 */
-  #nav-sp,
-  #menu-sp {
-    display: none;
-  }
+  
 
   #nav-sp .menu {
     text-decoration: none;
