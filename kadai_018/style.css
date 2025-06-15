@@ -15,9 +15,7 @@ margin: 20px auto;
 #middle {
 width: 800px;
 height: 800px;
-padding-top: 20px;
-padding-bottom:20px;
-text-align: center;  
+margin:20px auto;
 background-color: #ffd9df;
 position: relative;
 }
@@ -54,6 +52,7 @@ position: relative;
     height: 300px;
     text-align: center; 
     background-color:#87ceeb;
+    margin:20px auto;
   }
 
   #bottom-child01{
