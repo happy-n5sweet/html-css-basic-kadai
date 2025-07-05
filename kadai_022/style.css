@@ -79,6 +79,6 @@ footer{
 
     p{font-size:25px; }  
 
-    #parent{display: flex;}
+    #parent { flex-direction: column; }
 
 }
